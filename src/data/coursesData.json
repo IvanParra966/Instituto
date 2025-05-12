@@ -1,0 +1,66 @@
+[
+  {
+    "id": "beginner-a1",
+    "title": "Inglés Inicial (Beginner A1)",
+    "level": "A1",
+    "image": "/src/assets/img/curso1.jpg",
+    "shortDescription": "Frases básicas, saludos, presentación personal y vocabulario cotidiano.",
+    "fullDescription": "Este curso está diseñado para personas que no tienen ningún conocimiento previo del inglés. Se enfocará en enseñar frases esenciales, saludos, estructuras simples y vocabulario necesario para situaciones cotidianas como presentarse, pedir comida o hablar del clima.",
+    "objectives": [
+      "Comprender y usar expresiones cotidianas de uso frecuente.",
+      "Presentarse y responder preguntas básicas.",
+      "Mantener una conversación simple si el interlocutor habla despacio."
+    ],
+    "duration": "8 semanas",
+    "modality": "Online / Presencial",
+    "price": "Gratis (modalidad online)"
+  },
+  {
+    "id": "elementary-a2",
+    "title": "Inglés Pre-Intermedio (A2 - Elementary)",
+    "level": "A2",
+    "image": "/src/assets/img/curso2.jpg",
+    "shortDescription": "Vocabulario extendido, gramática básica y conversaciones simples.",
+    "fullDescription": "Ideal para quienes ya tienen una base. Este curso se centra en ampliar el vocabulario, consolidar estructuras gramaticales básicas, y practicar conversaciones relacionadas con la familia, rutinas diarias, viajes y compras.",
+    "objectives": [
+      "Formar oraciones en presente, pasado y futuro simple.",
+      "Realizar descripciones personales y de objetos.",
+      "Participar en diálogos simples sobre temas comunes."
+    ],
+    "duration": "10 semanas",
+    "modality": "Online / Presencial",
+    "price": "$10.000 ARS"
+  },
+  {
+    "id": "intermediate-b1",
+    "title": "Inglés Intermedio (B1 - Intermediate)",
+    "level": "B1",
+    "image": "/src/assets/img/curso3.jpg",
+    "shortDescription": "Mayor fluidez, tiempos verbales complejos y redacción básica.",
+    "fullDescription": "Este curso te ayudará a ganar confianza para hablar en inglés en contextos más amplios. Se trabajará con tiempos verbales como presente perfecto, condicionales y estructuras comparativas. También se desarrollarán habilidades de redacción y comprensión auditiva.",
+    "objectives": [
+      "Expresarse con claridad sobre temas familiares y profesionales.",
+      "Leer textos y artículos de dificultad media.",
+      "Redactar textos simples pero coherentes."
+    ],
+    "duration": "12 semanas",
+    "modality": "Online en vivo",
+    "price": "$15.000 ARS"
+  },
+  {
+    "id": "advanced-c1",
+    "title": "Inglés Avanzado (C1 - Advanced)",
+    "level": "C1",
+    "image": "/src/assets/img/curso4.jpg",
+    "shortDescription": "Lectura crítica, redacción formal y dominio del inglés académico.",
+    "fullDescription": "Pensado para estudiantes con buen dominio del idioma. Este curso incluye análisis de textos complejos, redacción de ensayos, presentaciones orales y vocabulario técnico en áreas como negocios, ciencia y tecnología.",
+    "objectives": [
+      "Entender textos largos y exigentes con matices complejos.",
+      "Redactar informes y ensayos bien estructurados.",
+      "Hablar fluidamente en contextos profesionales y académicos."
+    ],
+    "duration": "14 semanas",
+    "modality": "Online / Presencial con tutorías personalizadas",
+    "price": "$20.000 ARS"
+  }
+]
