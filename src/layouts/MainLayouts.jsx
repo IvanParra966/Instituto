@@ -1,5 +1,5 @@
 import Navbar from "../container/NavbarContainer/NavbarContainer";
-import Footer from "../components/footer/Footer";
+import Footer from "../components/footer/footer";
 
 const MainLayouts = ({ children }) => {
     return (
