@@ -1,7 +1,7 @@
 import Banner from "../components/banner/Banner";
 import Presentation from "../components/presentation/Presentation";
 import Prominent from "../components/prominent/Prominent";
-import Start from "../components/start/Start";
+import Start from "../components/start/start";
 const Home = () => {
   return (
     <>
